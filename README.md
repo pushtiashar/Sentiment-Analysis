@@ -6,7 +6,7 @@ This repository contains projects focused on **Sentiment Analysis** based on cus
 ## Environment  
 The project was developed entirely on **Google Colaboratory**. You can access it through the following link:  
 
-[Sentiment Analysis on Google Colab](#)  
+[Sentiment Analysis on Google Colab](https://colab.research.google.com/drive/1_ybXWwRIfH4r5k7tCi7LouzIjJtSaCqo?usp=sharing)  
 
 ## References  
 All references and detailed descriptions of the project are available within the notebooks.  
